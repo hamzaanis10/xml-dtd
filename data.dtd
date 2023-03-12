@@ -1,0 +1,10 @@
+<!ELEMENT student (name, age, class, fees*, paid+, paid_to?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT class (#PCDATA)>
+<!ELEMENT fees (#PCDATA)>
+<!ELEMENT paid (#PCDATA)>
+<!ELEMENT paid_to (#PCDATA)>
+<!ATTLIST name first_name CDATA #IMPLIED>
+<!ENTITY nbsp "#hamza10">
+<!ENTITY writer-name "Hamza Anis">

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE student SYSTEM "data.dtd" [
+
+]>
+
+<student>
+    <name>&writer-name;</name>
+    <age>&nbsp;</age>
+    <class></class>
+    <fees>10 &quot; 7</fees>
+    <fees></fees>
+    <fees></fees>
+    <fees></fees>
+    <paid></paid>
+    <paid_to></paid_to>
+</student>
